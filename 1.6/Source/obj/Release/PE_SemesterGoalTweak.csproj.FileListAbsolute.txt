@@ -1,0 +1,5 @@
+D:\Programming\PE_SemesterGoalTweak\1.6\Assemblies\PE_SemesterGoalTweak.dll
+D:\Programming\PE_SemesterGoalTweak\1.6\Source\obj\Release\PE_SemesterGoalTweak.csproj.AssemblyReference.cache
+D:\Programming\PE_SemesterGoalTweak\1.6\Source\obj\Release\PE_SemesterGoalTweak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\PE_SemesterGoalTweak\1.6\Source\obj\Release\PE_SemesterGoalTweak.csproj.CoreCompileInputs.cache
+D:\Programming\PE_SemesterGoalTweak\1.6\Source\obj\Release\PE_SemesterGoalTweak.dll
